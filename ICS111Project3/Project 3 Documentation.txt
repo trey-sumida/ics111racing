@@ -1,0 +1,10 @@
+Documentation/changelog
+
+Version 1.0 - November 19th, 2017
+- Created main class for program
+- Implemented each class to work together in the main function
+- Added scaled version of two cars to fit in the map easier in Player.java
+- Added a lower speed value to use for testing and possible implementation in Player.java
+- Changed map orientation to accomodate easier movement of cars in map1.txt
+- Changed values of y for both player objects to reflect a starting position on the bottom of the map
+- Changed some redundant values in Player.java around
